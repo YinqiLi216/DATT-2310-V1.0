@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneOpen.unity
+    guid: 7667bfa7c58331349980c088fd0cc9d1
+  - enabled: 1
+    path: Assets/Scenes/SceneStart.unity
+    guid: 81e5be56d83ecfd489706fe9b20121ed
+  - enabled: 1
+    path: Assets/Scenes/SceneLeft.unity
+    guid: da73518cc60834a4ca3b453225132440
+  - enabled: 1
+    path: Assets/Scenes/SceneLeft1.unity
+    guid: df4467ba6873da447bd416d9e587b198
+  - enabled: 1
+    path: Assets/Scenes/SceneLeft2.unity
+    guid: 4097bd5b90231d144a729b9ebf34167e
+  - enabled: 1
+    path: Assets/Scenes/SceneRight.unity
+    guid: 783e72494360c3b468b1dcf9cc232e96
+  - enabled: 1
+    path: Assets/Scenes/SceneRight1.unity
+    guid: 10557b003b60f324e8369987d66253a1
+  - enabled: 1
+    path: Assets/Scenes/SceneRight2.unity
+    guid: 28a156e1ecbbfad4a91ce49a397915fb
+  - enabled: 1
+    path: Assets/Scenes/SceneRight3.unity
+    guid: 00f198aef63a1c940a44c02f85efce84
+  - enabled: 1
+    path: Assets/Scenes/SceneRight4.unity
+    guid: 43c8ff791cba8de4ca83363f6baf7545
+  - enabled: 1
+    path: Assets/Scenes/SceneRight5.unity
+    guid: baf856a501ea0b4469e762138275c34e
+  - enabled: 1
+    path: Assets/Scenes/SceneRight6.unity
+    guid: 313ac5458d2f5f049a48baa66bd35828
+  - enabled: 1
+    path: Assets/Scenes/SceneRight7.unity
+    guid: 3d76ef08494986a4284bb6494e77e937
+  - enabled: 1
+    path: Assets/Scenes/SceneRight8.unity
+    guid: 1c4803d0899d80948801c88f636135c7
+  - enabled: 1
+    path: Assets/Scenes/SceneRight9.unity
+    guid: 000194b57884e2e4394f5069f07c3aba
+  - enabled: 1
+    path: Assets/Scenes/SceneRight10.unity
+    guid: ca60c03670aa49749a1bb1fa14731df0
+  - enabled: 1
+    path: Assets/Scenes/SceneEndA.unity
+    guid: 6c7794c1da125e14bbcc5aa8e19518a2
+  - enabled: 1
+    path: Assets/Scenes/SceneEndB.unity
+    guid: def374d1854e1604fa478e566b7d422c
+  - enabled: 1
+    path: Assets/Scenes/SceneEndD.unity
+    guid: 8fe690e58a6d4424ca3facdad3f0736c
+  - enabled: 1
+    path: Assets/Scenes/SceneEndC.unity
+    guid: 92999761f08f7844fa32b641367edc00
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
